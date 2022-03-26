@@ -1,4 +1,4 @@
-## @erenkurnaz/eslint-config-react-ts [![npm version](https://badge.fury.io/js/@erenkurnaz/eslint-config-react-ts.svg)]
+## @erenkurnaz/eslint-config-react-ts ![npm version](https://badge.fury.io/js/@erenkurnaz%2Feslint-config-react-ts.svg)
 
 ESLint Configuration for React with Typescript
 
